@@ -12,6 +12,14 @@
 1. Modificar larguran da página, utilizando a largura do dispositivo;
 1. Vincular folha de estilo à página html;
 1. Criar section para o conteúdo principal, título "Meus Objetivos do ano_", e uma div para quatro botões;
+1. Criar variáveis no style.css;
+
+### Aula 2
+
+1. Motificar estilo da seção principal;
+1. Modificar estilo do título principal e especificamente do caracter "_", neste último caso utilizar a tag span;
+1. Modificar o estilo de cada botão, incluindo responsividade;
+
 
 
 ## Para saber mais:
