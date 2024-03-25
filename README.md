@@ -30,6 +30,11 @@
 1. Criar uma div para agrupar todas as divs de conteúdo dentro da section principal;
 1. Criar uma classe de estilo para aplicar na div que agrupa o conteúdo;
 
+### Aula 5
+
+1. Criar lógica no javascript para ativar o texto correspondente ao botão clicado e desativar os demais textos;
+1. Adicionar um contador de tempo para alcançar cada um dos objetivos;
+
 
 
 ## Para saber mais:
