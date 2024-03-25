@@ -20,6 +20,10 @@
 1. Modificar estilo do título principal e especificamente do caracter "_", neste último caso utilizar a tag span;
 1. Modificar o estilo de cada botão, incluindo responsividade;
 
+### Aula 3
+
+1. Criar a classe .ativo, alterando as propriedades de cor de fundo e borda;
+1. Aplicar a classe .ativo à tag button, utilizando javascript. Ao clicar em um botão, ele deve ficar marcado como ativo e os outros desativados;
 
 
 ## Para saber mais:
