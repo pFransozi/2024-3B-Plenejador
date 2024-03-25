@@ -59,3 +59,4 @@
 3. [Node.innerText](https://developer.mozilla.org/pt-BR/docs/Web/API/HTMLElement/innerText);
 4. [Object Date JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Date);
 5. [Expressões e Operadores](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators);
+6. [Flex Box Floggy](https://flexboxfroggy.com/);
