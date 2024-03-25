@@ -25,6 +25,12 @@
 1. Criar a classe .ativo, alterando as propriedades de cor de fundo e borda;
 1. Aplicar a classe .ativo à tag button, utilizando javascript. Ao clicar em um botão, ele deve ficar marcado como ativo e os outros desativados;
 
+### Aula 4
+
+1. Criar uma div para agrupar todas as divs de conteúdo dentro da section principal;
+1. Criar uma classe de estilo para aplicar na div que agrupa o conteúdo;
+
+
 
 ## Para saber mais:
 
