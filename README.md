@@ -35,11 +35,27 @@
 1. Criar lógica no javascript para ativar o texto correspondente ao botão clicado e desativar os demais textos;
 1. Adicionar um contador de tempo para alcançar cada um dos objetivos;
 
+### Aula 6
+
+1. Criar função em javascript para calcular o tempo restante entre hora atual e tempo do objetivo futuro;
+2. Utilizar subtração de datas e a função Math.floor() para obter números inteiros;
+
+### Aula 7
+
+1. Criar um contador para as demais tarefas;
+2. Indicar que a tarefa já atingiu o prazo inicial;
+3. Atualizar o contador periodicamente de modo automático;
 
 
 ## Para saber mais:
 
-1. [Mozilla Foundation](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-1. [W3C](https://www.w3.org/TR/2011/WD-html5-20110405/)
-1. [Cores](https://www.w3schools.com/cssref/css_colors.php)
-1. [P5](https://editor.p5js.org/)
+1. [Mozilla Foundation](https://developer.mozilla.org/pt-BR/docs/Web/HTML);
+1. [W3C](https://www.w3.org/TR/2011/WD-html5-20110405/);
+1. [Cores](https://www.w3schools.com/cssref/css_colors.php);
+1. [P5](https://editor.p5js.org/);
+1. [Diferanças entre innerText, innerHTML, textContent](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_node_textcontent_innerhtml_innertext);
+1. [Element.innerHTML](https://developer.mozilla.org/pt-BR/docs/Web/API/Element/innerHTML);
+2. [Node.textContent] (https://developer.mozilla.org/pt-BR/docs/Web/API/Node/textContent);
+3. [Node.innerText](https://developer.mozilla.org/pt-BR/docs/Web/API/HTMLElement/innerText);
+4. [Object Date JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Date);
+5. [Expressões e Operadores](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators);
